@@ -1,0 +1,9 @@
+{
+  "name": "drupal/change_author_nid",
+  "type": "drupal-module",
+  "description": "Adds options to allow changing the author by node id in bulk.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": { }
+}

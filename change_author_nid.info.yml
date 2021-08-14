@@ -1,0 +1,8 @@
+name: Change author by node id
+type: module
+description: 'Adds options to allow changing the author by node id in bulk.'
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: Development
+dependencies:
+  - drupal:action

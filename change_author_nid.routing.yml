@@ -1,0 +1,9 @@
+change_author_nid.form:
+  path: /admin/change_author_nid
+  defaults:
+    _title: Change author by node id
+    _form: \Drupal\change_author_nid\Form\ChangeAuthorNidForm
+  options:
+   _admin_route: TRUE
+  requirements:
+    _permission: 'administer users'
