@@ -38,7 +38,7 @@ class ChangeAuthorNid {
 //      );
     }
     else {
-      $message = t('Finished with an error.');
+      $message = 'Finished with an error.';
       \Drupal::messenger()->addStatus($message);
     }
   }

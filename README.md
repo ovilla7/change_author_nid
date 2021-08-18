@@ -1,6 +1,6 @@
 # Change author by node id
 
-Allows us to change the author of the nodes by indicating their node identifiers.
+Allows you to change the author of the nodes by indicating their node identifiers.
 
 ## Installation
 
